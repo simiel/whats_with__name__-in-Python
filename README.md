@@ -1,6 +1,6 @@
 # Exploring if `__name__ == "__main__":`
 ![](carbon.png)
-This repository is all I did trying to undersand the behaviour of the __name__ variable.
+* This repository is all I did trying to undersand the behaviour of the __name__ variable.
 
 There are three files:
 * simiel.py [The main file]
@@ -28,6 +28,6 @@ A sweet hello from my little girl, Naa Atswei :smile:
 
 
 
-#### Kindly drop a star and share the repo to help others ;)
+#### Kindly feel free clone, edit, have fun, drop a star and share the repo to help others ;)
 
 SIMIELXXII
