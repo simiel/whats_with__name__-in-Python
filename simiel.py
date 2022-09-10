@@ -11,3 +11,7 @@ simiel()
 print(__name__)
 __name__ = '`SIMIEL`'
 print(__name__)
+from simiel2 import simiel
+import simiel2
+
+from simiel2 import *
