@@ -1,5 +1,5 @@
 # Exploring if `__name__ == "__main__":`
-
+![](carbon.png)
 This repository is all I did trying to undersand the behaviour of the __name__ variable.
 
 There are three files:
